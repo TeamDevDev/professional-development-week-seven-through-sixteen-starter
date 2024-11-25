@@ -205,18 +205,6 @@ course learning objectives:
   - **Executable Examinations**: Assesses **SE-1**, **SE-2**, **SE-3**
   - **In-Person Assessments**: Assesses **SE-3**, **SE-4**, **SE-5**
 
-Finally, the following list illustrates how the learning objectives for
-Allegheny College are attained through the successful completion of Computer
-Science 203.
-
-- **AC-1** is attained through the course learning objectives **SE-1**, **SE-3**, **SE-5**
-- **AC-2** is attained through the course learning objectives **SE-2**, **SE-4**, **SE-5**
-- **AC-3** is attained through the course learning objectives **SE-2**, **SE-4**, **SE-5**
-- **AC-4** is attained through the course learning objectives **SE-1**, **SE-3**, **SE-5**
-
-All five of the course's learning objectives support the **SP** and **SB**
-distribution requirements.
-
 ### Assessment of Your Attainment of the Learning Objective
 
 #### Description of the Assessment Levels for Learning Objectives
