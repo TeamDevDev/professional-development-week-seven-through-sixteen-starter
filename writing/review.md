@@ -125,6 +125,20 @@ TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Software Engineering at Google" book
       or a reference to a reputable web site that you found online.
 
+#### Effective Technical Leadership
+
+TODO: Write one sentence about this skill.
+TODO: Provide at least one reference to support your assertion.
+TODO: Your reference should be a URL in the "Software Engineering at Google" book
+      or a reference to a reputable web site that you found online.
+
+#### Helpful Style Guides
+
+TODO: Write one sentence about this skill.
+TODO: Provide at least one reference to support your assertion.
+TODO: Your reference should be a URL in the "Software Engineering at Google" book
+      or a reference to a reputable web site that you found online.
+
 ## Learning Objectives
 
 After consulting the [Learning
