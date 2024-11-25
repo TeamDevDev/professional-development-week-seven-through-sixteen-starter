@@ -201,12 +201,12 @@ module three.
 ## Learning Objectives
 
 Students who develop both **professionally** and **technically** are effectively
-undertaking the task of **developer development**, which is both the overall
-theme of this course. In this GitHub repository you will assess your attainment
-of the course learning objectives, reflecting on your strengths and weaknesses
-in the field of software engineering and making plans for continued improvement.
-Please note that the course instructor is delighted to help you to continue to
-develop as a developer even after the completion of the semester.
+undertaking the task of **developer development**, which is the overall theme of
+this course. In this GitHub repository you will assess your attainment of the
+course learning objectives, reflecting on your strengths and weaknesses in the
+field of software engineering and making plans for continued improvement. Please
+note that the course instructor is delighted to help you to continue to develop
+as a developer even after the completion of the semester.
 
 ### Restatement of Learning Objectives
 
