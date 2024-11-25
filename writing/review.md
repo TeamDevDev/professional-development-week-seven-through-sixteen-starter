@@ -184,18 +184,19 @@ any questions about how to count your GitHub commits for the web site.
 TODO: How many commits did you make to the Developer Development web site
 during the each module of the academic semester? Please note that commits only
 count if they appear in the listing of commits for the following GitHub
-repository: https://github.com/TeamDevDev/www.developerdevelopment.com. Please
-also note that you should only count commits that were completed during the
-weeks that pertain to this professional development assessment.
+repository: https://github.com/TeamDevDev/www.developerdevelopment.com.
 
-TODO: For work connected to the theme of professional development, I made `X`
-commits to the Developer Development web site during module one.
+TODO: For work connected to the theme of either professional or technical
+development, I made `X` commits to the Developer Development web site during
+module one.
 
-TODO: For work connected to the theme of professional development, I made `X`
-commits to the Developer Development web site during module two.
+TODO: For work connected to the theme of either professional or technical
+development, I made `X` commits to the Developer Development web site during
+module two.
 
-TODO: For work connected to the theme of professional development, I made `X`
-commits to the Developer Development web site during module three.
+TODO: For work connected to the theme of either professional or technical
+development, I made `X` commits to the Developer Development web site during
+module three.
 
 ## Learning Objectives
 
