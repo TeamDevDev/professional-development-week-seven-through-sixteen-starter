@@ -20,7 +20,7 @@
     * [Lessons Learned in Professional Development](#lessons-learned-in-professional-development)
       * [Effective Team Work](#effective-team-work)
       * [Skilled Project Management](#skilled-project-management)
-      * [Effective Communication](#effective-communication)
+      * [Effective Project Communication](#effective-project-communication)
       * [Effective Knowledge Sharing](#effective-knowledge-sharing)
       * [Effective Technical Leadership](#effective-technical-leadership)
       * [Helpful Style Guides](#helpful-style-guides)
@@ -154,7 +154,7 @@ TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Software Engineering at Google" book
       or a reference to a reputable web site that you found online.
 
-#### Effective Communication
+#### Effective Project Communication
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
