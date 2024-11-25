@@ -191,9 +191,8 @@ a software engineering project.
 - **SE-5**: Uses effective oral and written communication methods to explain
 both the technical and product-use details of a software artifact.
 
-The following list itemizes the three types of activities and two types of
-assessments in Computer Science 203 and illustrates their connection to the
-course learning objectives:
+The following list offers additional insights into the assessment strategy for
+the Software Engineering course:
 
 - *Course Activities*:
   - **Executive Summaries**:
