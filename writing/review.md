@@ -212,6 +212,11 @@ NOTE: Please keep these here for your reference. You should fill out the
 specific learning objectives in the following subsections, for which there is
 one subsection for each of the five learning objectives.
 
+NOTE: Your grade for this assessment repository only depends on the completion
+of your assessment for the learning objectives. Importantly, your grade does not
+depend on how you assess your attainment of the learning objectives. You are
+encouraged to accurately assess your attainment of each learning objective.
+
 - [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
 and needs significant guidance and/or support.
 - [] 2 (**Developing**): The developer has some understanding but still needs
