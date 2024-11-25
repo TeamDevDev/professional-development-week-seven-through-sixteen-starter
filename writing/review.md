@@ -52,13 +52,18 @@ TODO: Please do not fill in the checkbox if you did not complete the professiona
 #### Professional Development Assignments
 
 - [] Completed all of the team-based writing assignments for the course web site
-- [] Completed all of the required components inside the professional development reflection
+- [] Completed all of the documentation tasks in this repository
+- [] Completed all of the reflection tasks in this repository
 
 ### Professional Development Reflection
 
 TODO: Provide a brief one paragraph response to these questions.
 
-#### What is software engineering? How is software engineering different than programming?
+#### How does knowledge of software engineering better equip you to be a leader in the Department of Computer and Information Science at Allegheny College?
+
+TODO: Write a brief one paragraph response to this question.
+
+#### How does knowledge of software engineering better equip you to secure an internship or a full-time position in either industry or graduate school?
 
 TODO: Write a brief one paragraph response to this question.
 
@@ -66,11 +71,15 @@ TODO: Write a brief one paragraph response to this question.
 
 TODO: Write a brief one paragraph response to this question.
 
+#### What is one practice from the "Software Engineering at Google" book that enabled you to become a more joy-filled software engineer?
+
+TODO: Write a brief one paragraph response to this question.
+
 #### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is your greatest weakness? Why? How do you plan to improve as this course continues?
+#### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is your greatest weakness? Why? How do you plan to improve after the completion of this course?
 
 TODO: Write a brief one paragraph response to this question.
 
