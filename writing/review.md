@@ -166,18 +166,14 @@ of the course learning objectives, reflecting on your strengths and weaknesses
 in the field of software engineering and making plans for continued improvement.
 Please note that the course instructor is delighted to help you to continue to
 develop as a developer even after the completion of the semester.
-After consulting the [Learning
-
-Objectives](https://developerdevelopment.com/syllabus/#learning-objectives) for
-the Software Engineering course, pick at least one of them that **connects to
-professional development** and write the learning objective in its entirety
-below this paragraph. Next, accurately assess your attainment of that learning
-objective on a scale between 1 and 5 where 1 indicates that you are emerging as
-a learner for the objective and 5 indicates that you are developer who expertly
-completes tasks associated with the learning objective and are prepared to
-effectively teach it to others.
 
 ### Restatement of Learning Objective
+
+In the following subsections, you should accurately assess your attainment of
+each learning objective on a scale between 1 and 5 where 1 indicates that you
+are emerging as a learner for the objective and 5 indicates that you are
+developer who expertly completes tasks associated with the learning objective
+and are prepared to effectively teach it to others.
 
 - **SE-1**: While working in a team, can effectively design, implement,
 evaluate, improve, and document a solution to a problem delivered as a
@@ -242,6 +238,8 @@ apply it in complex situations and even teach it to others.
 
 #### Assessment of Your Attainment of the Learning Objective SE-1
 
+TODO: Assess your attainment of the specific learning objective.
+
 - [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
 and needs significant guidance and/or support.
 - [] 2 (**Developing**): The developer has some understanding but still needs
@@ -255,6 +253,8 @@ apply it in complex situations and even teach it to others.
 
 #### Assessment of Your Attainment of the Learning Objective SE-2
 
+TODO: Assess your attainment of the specific learning objective.
+
 - [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
 and needs significant guidance and/or support.
 - [] 2 (**Developing**): The developer has some understanding but still needs
@@ -267,6 +267,8 @@ consistently apply the skill or concept independently and effectively.
 apply it in complex situations and even teach it to others.
 
 #### Assessment of Your Attainment of the Learning Objective SE-3
+
+TODO: Assess your attainment of the specific learning objective.
 
 - [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
 and needs significant guidance and/or support.
