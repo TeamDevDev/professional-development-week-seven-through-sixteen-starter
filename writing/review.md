@@ -301,10 +301,10 @@ apply it in complex situations and even teach it to others.
 
 ## Overall Course Assessment
 
-Please note that your responses to these questions will neither positively nor
-negatively influence your grade in the software engineering course. With that
-said, you should honestly answer these questions so that the course instructor
-and the technical leaders can best ensure that they delivered appropriate
+NOTE: Please note that your responses to these questions will neither positively
+nor negatively influence your grade in the software engineering course. With
+that said, you should honestly answer these questions so that the instructor and
+the technical leaders can best ensure that they delivered appropriate
 instruction. Finally, please note that the responses that you give in this
 subsection should apply to professional development, technical development,
 project development, and your overall experiences as you develop as a developer.
@@ -359,19 +359,25 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### Write three sentences that summarize your overall experience in the software engineering course for this module. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next module of the course?
+### Write three sentences that summarize your overall experience in the software engineering course. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next iteration of the course?
 
 #### Sentence One: Answer the question `What do you think that we should keep doing? Why?`
 
 TODO: Write one sentence to answer the question.
-TODO: Your sentence should be of the form "I think that we should keep doing X because Y."
+
+TODO: Your sentence should be of the form "I think that we should keep doing X
+because Y."
 
 #### Sentence Two: Answer the question `What do you think that we should stop doing? Why?`
 
 TODO: Write one sentence to answer the question.
-TODO: Your sentence should be of the form "I think that we should stop doing X because Y."
+
+TODO: Your sentence should be of the form "I think that we should stop doing X
+because Y."
 
 #### Sentence Three: Answer the question `What do you think that we should start doing? Why`
 
 TODO: Write one sentence to answer the question.
-TODO: Your sentence should be of the form "I think that we should start doing X because Y."
+
+TODO: Your sentence should be of the form "I think that we should start doing X
+because Y."
