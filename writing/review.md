@@ -39,10 +39,10 @@
     * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this semester."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-am-closer-to-mastering-the-technical-and-scientific-concepts-of-the-course-now-than-i-was-at-the-start-of-this-semester)
     * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past module."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-felt-that-i-was-a-part-of-a-community-of-software-engineers-during-the-past-module)
     * [On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-during-the-past-module-i-made-progress-in-mastering-the-technical-knowledge-and-skills-in-software-engineering-because-of-my-own-efforts-and-choices)
-    * [Write three sentences that summarize your overall experience in the software engineering course. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next iteration of the course?](#write-three-sentences-that-summarize-your-overall-experience-in-the-software-engineering-course-what-do-you-think-that-we-should-keep-doing-what-do-you-think-that-we-should-stop-doing-what-suggestion-can-you-offer-for-a-task-that-we-can-start-doing-to-improve-the-next-iteration-of-the-course)
-      * [Sentence One: Answer the question `What do you think that we should keep doing? Why?`](#sentence-one-answer-the-question-what-do-you-think-that-we-should-keep-doing-why)
-      * [Sentence Two: Answer the question `What do you think that we should stop doing? Why?`](#sentence-two-answer-the-question-what-do-you-think-that-we-should-stop-doing-why)
-      * [Sentence Three: Answer the question `What do you think that we should start doing? Why`](#sentence-three-answer-the-question-what-do-you-think-that-we-should-start-doing-why)
+    * [Write three sentences that summarize your overall experience in the software engineering course this semester. What did you like? What did you not like? What suggestion can you offer for improving the course in the future?](#write-three-sentences-that-summarize-your-overall-experience-in-the-software-engineering-course-this-semester-what-did-you-like-what-did-you-not-like-what-suggestion-can-you-offer-for-improving-the-course-in-the-future)
+      * [Sentence One: Answer the question `What did you like?`](#sentence-one-answer-the-question-what-did-you-like)
+      * [Sentence Two: Answer the question `What did you not like?`](#sentence-two-answer-the-question-what-did-you-not-like)
+      * [Sentence Three: Answer the question `What suggestion can you offer for improving the course in the future?`](#sentence-three-answer-the-question-what-suggestion-can-you-offer-for-improving-the-course-in-the-future)
 
 <!---toc end-->
 
@@ -349,7 +349,7 @@ instruction. Finally, please note that the responses that you give in this
 subsection should apply to professional development, technical development,
 project development, and your overall experiences as you develop as a developer.
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this modules."
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -359,7 +359,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this module"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this modules."
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -379,7 +379,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past module."
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past modules."
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -389,7 +389,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices."
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past modules I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices."
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -399,25 +399,16 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### Write three sentences that summarize your overall experience in the software engineering course. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next iteration of the course?
+### Write three sentences that summarize your overall experience in the software engineering course this semester. What did you like? What did you not like? What suggestion can you offer for improving the course in the future?
 
-#### Sentence One: Answer the question `What do you think that we should keep doing? Why?`
-
-TODO: Write one sentence to answer the question.
-
-TODO: Your sentence should be of the form "I think that we should keep doing X
-because Y."
-
-#### Sentence Two: Answer the question `What do you think that we should stop doing? Why?`
+#### Sentence One: Answer the question `What did you like?`
 
 TODO: Write one sentence to answer the question.
 
-TODO: Your sentence should be of the form "I think that we should stop doing X
-because Y."
-
-#### Sentence Three: Answer the question `What do you think that we should start doing? Why`
+#### Sentence Two: Answer the question `What did you not like?`
 
 TODO: Write one sentence to answer the question.
 
-TODO: Your sentence should be of the form "I think that we should start doing X
-because Y."
+#### Sentence Three: Answer the question `What suggestion can you offer for improving the course in the future?`
+
+TODO: Write one sentence to answer the question.
