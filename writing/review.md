@@ -26,7 +26,7 @@
       * [Helpful Style Guides](#helpful-style-guides)
     * [GitHub Commits](#github-commits)
   * [Learning Objectives](#learning-objectives)
-    * [Restatement of Learning Objective](#restatement-of-learning-objective)
+    * [Restatement of Learning Objectives](#restatement-of-learning-objectives)
     * [Assessment of Your Attainment of the Learning Objective](#assessment-of-your-attainment-of-the-learning-objective)
       * [Description of the Assessment Levels for Learning Objectives](#description-of-the-assessment-levels-for-learning-objectives)
       * [Assessment of Your Attainment of the Learning Objective SE-1](#assessment-of-your-attainment-of-the-learning-objective-se-1)
@@ -215,7 +215,7 @@ in the field of software engineering and making plans for continued improvement.
 Please note that the course instructor is delighted to help you to continue to
 develop as a developer even after the completion of the semester.
 
-### Restatement of Learning Objective
+### Restatement of Learning Objectives
 
 In the following subsections, you should accurately assess your attainment of
 each learning objective on a scale between 1 and 5 where 1 indicates that you
