@@ -159,7 +159,15 @@ commits to the Developer Development web site during module three.
 
 ## Learning Objectives
 
+Students who develop both **professionally** and **technically** are effectively
+undertaking the task of **developer development**, which is both the overall
+theme of this course. In this GitHub repository you will assess your attainment
+of the course learning objectives, reflecting on your strengths and weaknesses
+in the field of software engineering and making plans for continued improvement.
+Please note that the course instructor is delighted to help you to continue to
+develop as a developer even after the completion of the semester.
 After consulting the [Learning
+
 Objectives](https://developerdevelopment.com/syllabus/#learning-objectives) for
 the Software Engineering course, pick at least one of them that **connects to
 professional development** and write the learning objective in its entirety
@@ -171,10 +179,120 @@ effectively teach it to others.
 
 ### Restatement of Learning Objective
 
-TODO: Make sure to re-state one of the learning objectives, using the correct
-notation for its label as provided in the syllabus.
+- **SE-1**: While working in a team, can effectively design, implement,
+evaluate, improve, and document a solution to a problem delivered as a
+maintainable software system.
+
+- **SE-2**: Demonstrates competency in the theories, models, and practices of
+project domains that require the engineering of software.
+
+- **SE-3**: Can effectively create and use software engineering tools that
+support software engineering activities like testing and debugging.
+
+- **SE-4**: Can effectively manage and predict the cost, scope, and deadline of
+a software engineering project.
+
+- **SE-5**: Uses effective oral and written communication methods to explain
+both the technical and product-use details of a software artifact.
+
+The following list itemizes the three types of activities and two types of
+assessments in Computer Science 203 and illustrates their connection to the
+course learning objectives:
+
+- *Course Activities*:
+  - **Executive Summaries**:
+    - **Technical Development**: Develops **SE-1**, **SE-2**, **SE-3**
+    - **Professional Development**: Develops **SE-3**, **SE-4**, **SE-5**
+  - **Project Development**: Develops **SE-1**, **SE-2**, **SE-3**, **SE-4**, **SE-5**
+- *Course Assessments*:
+  - **Programming Skill-Checks**: Assesses **SE-3**
+  - **Executable Examinations**: Assesses **SE-1**, **SE-2**, **SE-3**
+  - **In-Person Assessments**: Assesses **SE-3**, **SE-4**, **SE-5**
+
+Finally, the following list illustrates how the learning objectives for
+Allegheny College are attained through the successful completion of Computer
+Science 203.
+
+- **AC-1** is attained through the course learning objectives **SE-1**, **SE-3**, **SE-5**
+- **AC-2** is attained through the course learning objectives **SE-2**, **SE-4**, **SE-5**
+- **AC-3** is attained through the course learning objectives **SE-2**, **SE-4**, **SE-5**
+- **AC-4** is attained through the course learning objectives **SE-1**, **SE-3**, **SE-5**
+
+All five of the course's learning objectives support the **SP** and **SB**
+distribution requirements.
 
 ### Assessment of Your Attainment of the Learning Objective
+
+#### Description of the Assessment Levels for Learning Objectives
+
+NOTE: Please keep these here for your reference. You should fill out the
+specific learning objectives in the following subsections, for which there is
+one subsection for each of the five learning objectives.
+
+- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
+and needs significant guidance and/or support.
+- [] 2 (**Developing**): The developer has some understanding but still needs
+help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The developer has a solid understanding and can
+independently apply the skill or concept most of the time.
+- [] 4 (**Proficient**): The developer has a deep understanding and can
+consistently apply the skill or concept independently and effectively.
+- [] 5 (**Expert**): The developer has mastered the skill or concept and can
+apply it in complex situations and even teach it to others.
+
+#### Assessment of Your Attainment of the Learning Objective SE-1
+
+- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
+and needs significant guidance and/or support.
+- [] 2 (**Developing**): The developer has some understanding but still needs
+help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The developer has a solid understanding and can
+independently apply the skill or concept most of the time.
+- [] 4 (**Proficient**): The developer has a deep understanding and can
+consistently apply the skill or concept independently and effectively.
+- [] 5 (**Expert**): The developer has mastered the skill or concept and can
+apply it in complex situations and even teach it to others.
+
+#### Assessment of Your Attainment of the Learning Objective SE-2
+
+- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
+and needs significant guidance and/or support.
+- [] 2 (**Developing**): The developer has some understanding but still needs
+help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The developer has a solid understanding and can
+independently apply the skill or concept most of the time.
+- [] 4 (**Proficient**): The developer has a deep understanding and can
+consistently apply the skill or concept independently and effectively.
+- [] 5 (**Expert**): The developer has mastered the skill or concept and can
+apply it in complex situations and even teach it to others.
+
+#### Assessment of Your Attainment of the Learning Objective SE-3
+
+- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
+and needs significant guidance and/or support.
+- [] 2 (**Developing**): The developer has some understanding but still needs
+help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The developer has a solid understanding and can
+independently apply the skill or concept most of the time.
+- [] 4 (**Proficient**): The developer has a deep understanding and can
+consistently apply the skill or concept independently and effectively.
+- [] 5 (**Expert**): The developer has mastered the skill or concept and can
+apply it in complex situations and even teach it to others.
+
+#### Assessment of Your Attainment of the Learning Objective SE-4
+
+- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
+and needs significant guidance and/or support.
+- [] 2 (**Developing**): The developer has some understanding but still needs
+help and practice to fully grasp the skill or concept.
+- [] 3 (**Competent**): The developer has a solid understanding and can
+independently apply the skill or concept most of the time.
+- [] 4 (**Proficient**): The developer has a deep understanding and can
+consistently apply the skill or concept independently and effectively.
+- [] 5 (**Expert**): The developer has mastered the skill or concept and can
+apply it in complex situations and even teach it to others.
+
+#### Assessment of Your Attainment of the Learning Objective SE-5
 
 - [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
 and needs significant guidance and/or support.
