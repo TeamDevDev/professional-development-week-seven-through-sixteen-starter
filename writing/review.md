@@ -141,6 +141,11 @@ TODO: Your reference should be a URL in the "Software Engineering at Google" boo
 
 ### GitHub Commits
 
+NOTE: For the sake of convenience you can count your commits to the course web
+site's repository for both the technical development and professional
+development reading assignments. Please see the course instruction if you have
+any questions about how to count your GitHub commits for the web site.
+
 TODO: How many commits did you make to the Developer Development web site
 during the each module of the academic semester? Please note that commits only
 count if they appear in the listing of commits for the following GitHub
